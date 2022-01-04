@@ -14,5 +14,3 @@ Promises for PHP based on ticks.
 ## Usage.
 
 TODO
-
-## Example:
